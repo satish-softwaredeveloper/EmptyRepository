@@ -4,6 +4,9 @@ namespace GitTutorial
 {
   public partial class HomeController : Controller
   {
-     
+     public void GetData()
+	  {
+	  //Body of GetData
+	  }
   }
 }
