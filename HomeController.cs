@@ -8,5 +8,11 @@ namespace GitTutorial
 	  {
 	  //Body of GetData
 	  }
+	
+	  //Changes made in Master branch in gitHub 
+	  public void Display()
+	  {
+	  //Body of Display method
+	  }
   }
 }
