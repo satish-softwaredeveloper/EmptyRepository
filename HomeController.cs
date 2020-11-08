@@ -13,6 +13,7 @@ namespace GitTutorial
 	  public void Display()
 	  {
 	  //Body of Display method
+	   Response.Write("Display method Called");
 	  }
   }
 }
